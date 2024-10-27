@@ -10,14 +10,16 @@ Adding a new layer provided an increase in accuracy from 78% to 84% in the test 
 
 
 ### Data source
-The test and train data are from the Fashion MNIST dataset found on kaggle (here)[https://www.kaggle.com/datasets/zalando-research/fashionmnist]. 
+The test and train data are from the Fashion MNIST dataset found on kaggle [here](https://www.kaggle.com/datasets/zalando-research/fashionmnist). 
 To comply with Github's policy on large files, I divided the train dataset in 2 pieces, which are merged instantly.
 
 
 ### Dependencies and download
 
-Numpy == 1.26.3
-Pandas == 2.1.4
+```python
+Numpy = 1.26.3
+Pandas = 2.1.4
+```
 
 You can extract this repo as a zip file, extract it and change the directory path to your actual path for running it.
 
