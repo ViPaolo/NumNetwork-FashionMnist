@@ -16,10 +16,10 @@ To comply with Github's policy on large files, I divided the train dataset in 2 
 
 ### Dependencies and download
 
-```python
-Numpy = 1.26.3
-Pandas = 2.1.4
-```
+
+- `Numpy` v. 1.26.3
+ `Pandas` v. 2.1.4
+
 
 You can extract this repo as a zip file, extract it and change the directory path to your actual path for running it.
 
